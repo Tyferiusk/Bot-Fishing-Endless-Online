@@ -1,4 +1,4 @@
-# 🎣 PescaBot - Bot Automático de Pesca
+# 🎣 PescaBot - Bot Automático de Pesca Endless Online
 
 **Bot de pesca automatizado para juegos que utiliza visión por computadora (OpenCV) para detectar el momento del pique y ejecutar la acción de pescar automáticamente.**
 
